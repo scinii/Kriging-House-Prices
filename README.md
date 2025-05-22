@@ -14,3 +14,5 @@ Kriging with external drift is used to model the residuals as a Gaussian process
 ## Key Observations
 - Modeling house values as a spatial phenomenon through Kriging results in better predictions than using traditional regression methods.
 - A Bayesian approach (Bayesian Kriging) could further enhance performace, but it would require significant computational power, making it more suitable for smaller regions. 
+
+![Map]([https://github.com/scinii/timetabling_RUG/blob/main/2A_scaled_wed.png](https://github.com/scinii/Kriging-House-Prices/blob/main/actualCali.png))
